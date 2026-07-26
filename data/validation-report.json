@@ -1,0 +1,393 @@
+{
+  "valid": true,
+  "totals": {
+    "all": 922,
+    "theory": 743,
+    "comprehensive": 179
+  },
+  "chapterCounts": {
+    "第一章 概述": 50,
+    "第二章 系统组成及介绍": 75,
+    "第三章 飞行原理与性能": 145,
+    "第四章 气象": 169,
+    "第五章 空中交通管制": 24,
+    "第六章 法律法规": 46,
+    "第七章 起降操纵": 111,
+    "第八章 多旋翼": 92,
+    "第九章 飞行手册": 31,
+    "综合问答": 179
+  },
+  "sourceCounts": {
+    "第一章 概述.docx": 50,
+    "第二章 系统组成及介绍.docx": 75,
+    "第三章 飞行原理与性能.docx": 145,
+    "第四章 气象（一）.docx": 100,
+    "第四章 气象（二）.docx": 69,
+    "第五章 空中交通管制.docx": 24,
+    "第六章 法律法规.docx": 46,
+    "第七章 起降操纵.docx": 111,
+    "第八章 多旋翼.docx": 92,
+    "第九章 飞行手册.docx": 31,
+    "机长综合问答题库.docx": 179
+  },
+  "answerCounts": {
+    "B": 318,
+    "A": 289,
+    "C": 315
+  },
+  "quality": {
+    "questionsWithThreeOptions": 922,
+    "questionsWithValidAnswer": 922,
+    "repeatedStemGroups": 24,
+    "variantStemGroups": 20,
+    "exactContentDuplicateGroups": 4
+  },
+  "variantStemExamples": [
+    {
+      "stem": "民用无人机的空机重量包含",
+      "records": [
+        {
+          "id": "q-646a22e18d668253f8",
+          "sourceFile": "第一章 概述.docx",
+          "sourceNumber": 19,
+          "answer": "C"
+        },
+        {
+          "id": "q-391b3ab2d383019941",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 159,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "多旋翼飞行器动力系统主要使用",
+      "records": [
+        {
+          "id": "q-e29a3f1c36420a8bbc",
+          "sourceFile": "第一章 概述.docx",
+          "sourceNumber": 29,
+          "answer": "A"
+        },
+        {
+          "id": "q-22ffa2e1809d9f2a23",
+          "sourceFile": "第一章 概述.docx",
+          "sourceNumber": 30,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "无人机弹射发射方式主要用于",
+      "records": [
+        {
+          "id": "q-b19a923581e209776c",
+          "sourceFile": "第一章 概述.docx",
+          "sourceNumber": 48,
+          "answer": "C"
+        },
+        {
+          "id": "q-d61235a24f1a8302ec",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 158,
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "stem": "民用无人机上的舵机一般输出行程为",
+      "records": [
+        {
+          "id": "q-dafb03a90f06516d3f",
+          "sourceFile": "第二章 系统组成及介绍.docx",
+          "sourceNumber": 61,
+          "answer": "B"
+        },
+        {
+          "id": "q-5a49f7c97472499394",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 160,
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "stem": "流体在管道中稳定低速流动时，如果管道由粗变细，则流体的流速",
+      "records": [
+        {
+          "id": "q-ce9a1a9d51a0f7a7b5",
+          "sourceFile": "第三章 飞行原理与性能.docx",
+          "sourceNumber": 45,
+          "answer": "A"
+        },
+        {
+          "id": "q-8cdfe426e3e09fc829",
+          "sourceFile": "第三章 飞行原理与性能.docx",
+          "sourceNumber": 134,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "以下关于翼型相对厚度和相对弯度正确的是",
+      "records": [
+        {
+          "id": "q-bd106e04d4d334028b",
+          "sourceFile": "第三章 飞行原理与性能.docx",
+          "sourceNumber": 47,
+          "answer": "B"
+        },
+        {
+          "id": "q-7e6b3cec9244b2f333",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 29,
+          "answer": "B"
+        },
+        {
+          "id": "q-38576754e8fbfb9dad",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 146,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "在自主飞行过程中，遥控器油门的位置应处于",
+      "records": [
+        {
+          "id": "q-eb3f63638bbab272ec",
+          "sourceFile": "第七章 起降操纵.docx",
+          "sourceNumber": 22,
+          "answer": "C"
+        },
+        {
+          "id": "q-2c323bc35d9aa8d111",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 144,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "对于直升机、多旋翼无人机的旋翼或固定翼无人机的螺旋桨，保持角速度一定，更换直径较小的旋翼或螺旋桨，会导致",
+      "records": [
+        {
+          "id": "q-d5ecdb76051f65a90f",
+          "sourceFile": "第七章 起降操纵.docx",
+          "sourceNumber": 33,
+          "answer": "B"
+        },
+        {
+          "id": "q-15afd8b251ad83fb1e",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 25,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "关于失速，下面哪个说法是不正确的",
+      "records": [
+        {
+          "id": "q-6f59798cf658a0215f",
+          "sourceFile": "第七章 起降操纵.docx",
+          "sourceNumber": 63,
+          "answer": "A"
+        },
+        {
+          "id": "q-33b95e0c51eb0ec4ed",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 11,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "多旋翼飞行器的旋翼旋转方向一般为",
+      "records": [
+        {
+          "id": "q-0d84d02d266326a6a4",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 13,
+          "answer": "C"
+        },
+        {
+          "id": "q-947e6c69fe40e8acfa",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 14,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "外转子电机规格2208；9T；KV1000分别代表什么含义",
+      "records": [
+        {
+          "id": "q-80e3d4493cb4dcc8cf",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 30,
+          "answer": "A"
+        },
+        {
+          "id": "q-c2e41257e6781bdedf",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 175,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "关于多轴使用的无刷电机与有刷电机，说法正确的是",
+      "records": [
+        {
+          "id": "q-531c263b6fa1d186a1",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 36,
+          "answer": "B"
+        },
+        {
+          "id": "q-e2b4cdff84eeb36907",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 38,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "以下哪个是小型电动无人机常用的动力电池类型",
+      "records": [
+        {
+          "id": "q-8da8b9fb531bfc1b0b",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 57,
+          "answer": "A"
+        },
+        {
+          "id": "q-a0a2a5b4a06863103d",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 58,
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "stem": "以下电池类型中，记忆效应最强的是",
+      "records": [
+        {
+          "id": "q-3d296b7f51d663d067",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 59,
+          "answer": "C"
+        },
+        {
+          "id": "q-22a5a4f1bf79abb193",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 60,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "以下哪种动力电池放电电流最大",
+      "records": [
+        {
+          "id": "q-a8c74137a84ff24d28",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 63,
+          "answer": "C"
+        },
+        {
+          "id": "q-4aeba58774ee8a363d",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 64,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "遥控器、图传、地面站与飞行器之间数据链路分别是",
+      "records": [
+        {
+          "id": "q-f5b56c94b2474bf4a6",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 68,
+          "answer": "A"
+        },
+        {
+          "id": "q-6f516db24981a04fef",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 145,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "stem": "飞行中的多旋翼飞行器所承受的力和力矩不包括",
+      "records": [
+        {
+          "id": "q-2a5632ad426969361e",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 72,
+          "answer": "B"
+        },
+        {
+          "id": "q-6d64b9db6c4d906345",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 73,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "多旋翼飞行器悬停时的平衡不包括",
+      "records": [
+        {
+          "id": "q-a0ece5ea0aaa00c484",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 75,
+          "answer": "A"
+        },
+        {
+          "id": "q-60b9289f52a7d0a764",
+          "sourceFile": "第八章 多旋翼.docx",
+          "sourceNumber": 76,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "无人机制造商编写的随机文档《无人机所有者/信息手册》",
+      "records": [
+        {
+          "id": "q-b0fa1f1f2c5fe457bb",
+          "sourceFile": "第九章 飞行手册.docx",
+          "sourceNumber": 2,
+          "answer": "C"
+        },
+        {
+          "id": "q-4e185a59e2cba6f998",
+          "sourceFile": "第九章 飞行手册.docx",
+          "sourceNumber": 3,
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "stem": "多旋翼无人机的配电、用电系统连线正确的是",
+      "records": [
+        {
+          "id": "q-48c53c4774fe27e9d2",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 119,
+          "answer": "A"
+        },
+        {
+          "id": "q-05b7136e1cff163910",
+          "sourceFile": "机长综合问答题库.docx",
+          "sourceNumber": 120,
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}
